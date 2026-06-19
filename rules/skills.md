@@ -93,3 +93,8 @@ each tradition behaves like its own skill that climbs the proficiency tiers (e.g
 it understated: subtle, costly, and quietly powerful rather than flashy. The DM tracks
 known magical abilities on the character sheet like any other skill, and gates new ones
 behind discovery (`dm-secrets/`).
+
+**Faith is one such doorway.** A priest's blessings draw on the *same* skill-family as any
+other magic — reached through devotion rather than study, but mechanically identical. Divine
+power is never a separate system, and it never proves the god is real (see
+`world/world-bible.md` §3).

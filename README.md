@@ -41,6 +41,7 @@ current state and picks up where you left off.
 | `rules/attributes.md` | The attribute scale (what a 10 vs. a 30 looks like) + Luck. |
 | `rules/skills.md` | Skill list and proficiency tiers (classless; learn abilities in play). |
 | `rules/resolution.md` | How the DM decides success/failure without dice. |
+| `rules/harm-and-recovery.md` | Injury (narrated, not tracked), the no-permadeath fork, healing, and Fatigue. |
 | `character/` | Your character sheet + the creation walkthrough. |
 | `world/` | **Known** world: world bible, factions & reputation, locations, NPCs, calendar/timeline. |
 | `inventory/` | Coin, items, property, businesses, late-game nation assets. |

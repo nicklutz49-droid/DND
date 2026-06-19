@@ -25,9 +25,27 @@ The known world is **four continents**:
 - **Saal Aethal** — homeland of **elves, lizardfolk**, and other tropical kin. Warm,
   jungled, old.
 
-**▸ To develop:** a rough map and seas; travel/distance between continents; the specific
-**frontier region of Acente** where play begins (the cartographer will build it); climate
-and terrain of the starting region.
+### The Starting Region — the Selvemark
+Play begins in the **Selvemark**: a stretch of **deep, old forest threaded by the great
+river Selve**, on the middle reaches where the river is the only real highway. People move by
+**barge, canoe, and raft**, or by narrow forest trails; the woods are thick enough to vanish
+into and rich in **furs, timber, and river-trade.**
+
+- **No one holds it.** The Selvemark is **wide-open and contested.** **Native forest peoples**
+  hold the deep woods (§2); **free settlers** push up the river raising raw towns; and the
+  **Empire** has only just reached in — surveyors, a charter or two, the first agents. Every
+  claim here is still up for grabs, which is exactly why a newcomer can make a mark.
+- **Elder ruins salt the forest.** Moss-grown stone of a **vanished elder people** lies
+  scattered through the trees, and treasure-seekers, scholars, and quiet imperial surveyors
+  all come hunting it. *What built it, and why it fell, is not commonly known* (see
+  `dm-secrets/`).
+- **The hub** is a booming, half-lawless **river-town** at a major crossing on the Selve —
+  the region's beating heart, where every faction elbows for advantage (see `world/locations.md`).
+- **Seasons bite.** Hard winters and a treacherous mud-season frame rich green summers; cold
+  and distance are real dangers on the trail (see *Fatigue*, `rules/harm-and-recovery.md`).
+
+**▸ To develop:** a rough map and seas; travel/distance between continents; the native
+peoples of the Selvemark and their own name for the river; the elder ruins' truth (`dm-secrets/`).
 
 ---
 
@@ -62,11 +80,47 @@ old grudges between specific peoples; where the rarer kin concentrate.
 - **Elemental spirits** run much of the world's background — **local powers of place**
   (river, stone, storm, hearth, grove). They are real and can be dealt with, but **not
   everyone is knowledgeable about them**; shamans, hedge-folk, and many native peoples are.
-- The **Empire** venerates a structured **imperial pantheon** through a **state priesthood**
-  (see §4), and dismisses frontier spirit-worship as backward.
 
-**▸ To develop:** the named gods of the imperial pantheon and their domains; rival/older
-faiths; how tribal spirit-ways actually work; holy days.
+### The Imperial Pantheon — the Ordered Heaven
+The Empire's official faith is a **ranked pantheon that mirrors the Empire itself**: a
+supreme **High God** on the Sun-Throne, served by a fixed circle of **Seven** lesser gods,
+each holding one domain. Its **state church** is run like a bureaucracy — a hierarchy of
+ordained clergy who crown magistrates, bless legions, keep the calendar, and brand rival
+faiths as superstition or heresy.
+
+- **Aurel, the Sun-Throne** — High God of **order, law, civilization, and the sun**; the
+  Lawgiver, the Unblinking Eye. The Empire's divine charter: its right to rule and to
+  "civilize" the frontier is said to flow from Him.
+
+The **Seven Thrones** beneath Him:
+1. **Castaron, the Iron Marshal** — disciplined war, the legions, victory, oaths of service.
+2. **Ostiar, the Doorward** — **death and the threshold**. He shepherds the dead *through*
+   and guards souls from being seized by fey, devils, or the restless dark (see §6).
+   Necromancy and soul-bargains are his great desecrations.
+3. **Messa, the Green Mother** — harvest, hearth, plenty, childbirth, the settled home.
+4. **Vennor, the Road-Keeper** — trade, roads, coin, contracts, boundaries, travelers;
+   the merchant's and settler's favorite.
+5. **Lectis, the Scrivener** — records, letters, the law's archive, and **sanctioned
+   learning** — patron of the Empire's licensed academies of magic (see §4).
+6. **Salva, the Kind Hand** — healing, mercy, the sick and wounded, sanctuary.
+7. **Maris, the Deep Lord** — sea, storm, deep water, the navy, and the perils of the crossing.
+
+> **Funeral rites matter here.** Because souls are contested (§6), the rites of Ostiar are
+> about getting the dead safely *through the gulf* before something else claims them.
+
+### How the faith grants power
+Mechanically, divine power is **no different from any other magic** — **faith is simply the
+doorway** a devotee uses to reach their own latent power (`rules/skills.md` › *Magic*). This
+is exactly why the gods' existence stays **unprovable**: a priest's miracle and a
+hedge-witch's charm may be the very same force wearing different clothes.
+
+### Other faiths
+The elf and dwarf nations keep **their own gods and older rites**; the native peoples lean
+on the **elemental spirits** above; and the humans' lost homeland, the Frozen North, held an
+**older faith** — some of which the imperial church absorbed, reformed, or buried.
+
+**▸ To develop:** the Church's hierarchy, titles, and seat; holy days and the worship
+calendar; the elf/dwarf pantheons; the older Northern faith; heresies and forbidden cults.
 
 ---
 
@@ -112,8 +166,9 @@ There are **several paths to power**, each behaving like its own learned traditi
   magic works. Governed by intellect.
 - **Pacts / Warlockry** — power **bargained** from a patron (a fey lord, a devil, an elder
   power) at a price. Dreaded, and outlawed by the Empire.
-- **Faith / Divine** — power received by **devotion**, shaped by the nature of the god
-  prayed to (see §3's ambiguity).
+- **Faith / Divine** — devotion (to the imperial pantheon or any god) used as a **doorway**
+  to magic. Mechanically identical to the other traditions — which is why it never proves
+  the god is real (see §3).
 - **Innate / Planar-born** — those **born with a connection** to a deeper plane, who tap
   its magic directly (sorcerous, often inherited).
 - **Spirit-work** — dealing with the **elemental spirits** of place (the shaman's/animist's

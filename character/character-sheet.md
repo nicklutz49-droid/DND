@@ -52,7 +52,9 @@
 - **Personal goal:**
 
 ## Condition & Status
-- **Health/wounds:** Healthy
+- **Health/wounds:** Healthy *(narrated, not tracked — see `rules/harm-and-recovery.md`)*
+- **Fatigue:** Fresh *(Fresh → Tired → Exhausted → Spent)*
+- **Lasting marks:** None
 - **Standing reputation:** Unknown newcomer
 - **Current location:**
 

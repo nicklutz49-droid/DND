@@ -16,5 +16,9 @@
 - **The death of the North.** Why did the human homeland (the Frozen North) become
   uninhabitable, forcing the exodus to Acente? Was it natural, magical, or *made* — and
   does whatever killed it connect to what the Empire now seeks on the frontier?
+- **Are the gods real?** Divine power is (mechanically) just channeled mortal magic — so do
+  Aurel and the Seven actually exist, or is the Church a grand edifice raised over a human
+  gift? What did the **older Northern faith** know that the imperial church buried, and does
+  it bear on the death of the North? (For the DM to decide and reveal only through play.)
 
 *(Add discrete, discoverable lore entries here as you develop them.)*
