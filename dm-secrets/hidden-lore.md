@@ -13,5 +13,8 @@
   What do the tribes know about it that settlers don't?
 - **The ruins.** Who built them, why are they abandoned, what still sleeps there?
 - **A buried wrong.** Some past atrocity or pact whose consequences are still unspooling.
+- **The death of the North.** Why did the human homeland (the Frozen North) become
+  uninhabitable, forcing the exodus to Acente? Was it natural, magical, or *made* — and
+  does whatever killed it connect to what the Empire now seeks on the frontier?
 
 *(Add discrete, discoverable lore entries here as you develop them.)*
