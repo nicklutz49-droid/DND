@@ -13,9 +13,12 @@ circulate; tribes often prefer barter):
 *(Barter, favors, and letters of credit matter as much as coin on the frontier.)*
 
 ## Purse
-- **Gold Crowns:** 0
-- **Silver Marks:** 0
-- **Copper Pennies:** 0
+- **Gold Crowns:** 4
+- **Silver Marks:** 7
+- **Copper Pennies:** 5
+
+> *Scraping by — a few weeks of thin living at most, and less if lodging runs dear.
+> Which is exactly why Paige is hunting work the moment they step off the caravan.*
 
 ## Property & Holdings
 *(Land, buildings, claims. None at start.)*

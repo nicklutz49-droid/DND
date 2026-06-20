@@ -22,5 +22,9 @@
 - **Open threads / debts / promises:**
 -->
 
-*(None yet — the player is a fresh arrival. Their starting **connection** from character
-creation is recorded here once it's made.)*
+### Dalia Renn
+- **Who they are:** A settler **caravan-master** — weathered, shrewd, and plain-spoken; runs goods up the Selve trade-road into the Selvemark. Well-known and well-owed the length of the river.
+- **Disposition toward player:** **Friendly** — took a liking to Paige on the long road in, and vouched for them on arrival at Selvecross.
+- **Status:** Alive & well — in Selvecross now, turning her cargo around before the next run.
+- **What the player knows about them:** She knows the river-road's people, debts, and gossip; knows who's hiring in town and who's best avoided.
+- **Open threads / debts / promises:** Vouched for Paige (a foothold in a strange town). May have work or a lead — and the favor runs both ways.
