@@ -8,7 +8,13 @@
 *(Add a block per hidden place — ruins, hidden tribal seats, secret imperial sites,
 caches, natural wonders. Include the clue/path that could lead the player to it.)*
 
-### The Sunken Gate (locally "the Drowned Steps") — HIDDEN
+### The Sunken Gate (locally "the Drowned Steps" / "the Drowned Stair") — PARTLY DISCOVERED (IR 1187, 6th–8th of Highsun)
+> **STATUS:** Paige found, read, and bargained at this site in Session 1. Its **public facts are now
+> promoted** to `world/locations.md` (location; that it is a warded **threshold**; that it holds a sealed
+> **sentient entity**; that it is a "thin/dangerous place"; that the Pact was made there). **STILL HIDDEN
+> below:** that this is an **imperial-catalogue target** of the inner circle's threshold-hunt, the metaplot
+> tie, and *which* Near World it binds against. Do not expose the metaplot-target status. See also
+> `dm-secrets/the-pact.md` for what the entity truly is and intends.
 - **Type & nature:** A half-submerged elder ruin — a broad flight of black, mortarless stone steps
   descending *into* a hillside tarn, about **a day and a half up the Wend** from Selvecross, then a
   short way off the water into a boggy fold of the hills. Above the waterline the visible courses are

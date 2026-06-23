@@ -13,16 +13,32 @@ circulate; tribes often prefer barter):
 *(Barter, favors, and letters of credit matter as much as coin on the frontier.)*
 
 ## Purse
-- **Gold Crowns:** 4
-- **Silver Marks:** 7
+**Ordinary coin (clean, free to spend):**
+- **Gold Crowns:** 25
+- **Silver Marks:** 4
 - **Copper Pennies:** 5
 
-> *Scraping by — a few weeks of thin living at most, and less if lodging runs dear.
-> Which is exactly why Paige is hunting work the moment they step off the caravan.*
+> *From scraping by to **flush.** Session 1 turned the purse over hard:*
+> - *Started with 4 gc 7 sm 5 cp.*
+> - *+ ~15 gc — **Coll Verrane's tripled survey fee** for the Drowned Stair reading.*
+> - *+ ~8 gc worth of **loose silver** looted from the raider camp at Kettle Narrows.*
+> - *− ~2 gc — lodging at the Drowned Crow and **two town resupplies** over ~9 days of travel.*
+
+**Hot coin — handle with care (kept separate):**
+- **~35 gc in fresh imperial-mint crowns** — the **wage-purse** from Calder's strongbox, still carrying a
+  **quartermaster's tally-string.** This is **marked, traceable Empire pay**, not anonymous loot — spending
+  it in Selvecross could draw exactly the wrong eyes. Real wealth, but a liability until laundered or
+  reckoned with.
+
+> *Pending — not yet in hand:* the **river-raider bounty**, owed by Borric Tann / the river-merchants
+> (backed by Brennar). Uncollected as the session closed at the docks.
 
 ## Property & Holdings
 *(Land, buildings, claims. None at start.)*
-- None
+- **A captured riverboat** *(14th of Highsun, IR 1187)* — the raiders' own boat, seized at Kettle Narrows
+  and run down the Wend and Selve to Selvecross with prisoners and evidence aboard. A **minor mobile
+  asset** — Paige's own keel on the river now, currently tied up at the Wharfstairs. (Cross-ref
+  `world/locations.md` › The Player's Holdings.)
 
 ## Businesses & Enterprises
 *(Ventures the player runs — shop, trade route, workshop, etc. None at start.)*
@@ -30,7 +46,8 @@ circulate; tribes often prefer barter):
 
 ## Followers & Organization
 *(Hirelings, retainers, a crew, later a faction or nascent nation. None at start.)*
-- None
+- None formally. *(Garran, the freed bargeman, is grateful and friendly but not a retainer; Calder and three
+  others are bound **prisoners**, not followers — see `world/npcs.md`.)*
 
 ## Late-Game / Nation Assets
 *(Reserved for when the player's influence reaches settlement- or nation-scale:

@@ -43,3 +43,45 @@ whether it succeeds.
 - Imperial coin turning up in a tribal raiders' camp.
 - A settler charter with strange clauses no one can explain.
 - An "advisor" who arrived before the settlers did.
+
+---
+
+## Live State (updated Session 1 — IR 1187, Highsun)
+
+### Stage 1 (Survey & Seed) — ACTIVE, partially poked
+- **Verrane's threshold-cataloguing continues**, but Paige fed him a **false reading** of the **Sunken
+  Gate / Drowned Stair**, so what he reports up the chain is **wrong** — the marks "read," but the
+  seal is intact and the site looks (to him) like a dangerous dead end. The Empire's catalogue now
+  carries a corrupted entry for one of its target thresholds. *Paige did this on purpose; Verrane does
+  not know.* (Verrane also does not know Paige returned alone and made a pact with what's bound there.)
+
+### Stage 2 (Divide) — ACTIVE and now **PARTIALLY EXPOSED**
+- The Empire ran a **false-flag casus-belli operation** at Selvecross: settlers-in-disguise, **paid in
+  fresh imperial-mint coin** (a quartermaster-tally *wage*, paid for the *outcome* — "balance when the
+  Council sends to the river-fort for soldiers"), staging river-raids and **marking the kills to read as
+  Wendfolk work**, to fracture settler/Wendfolk relations and **frighten the Crossing Council into begging
+  for an imperial garrison.**
+- **The player defeated it.** Paige broke the raider band at Kettle Narrows, freed their captive, and
+  seized the **documentary proof** (letters, ledger, marked wage-purse, informer slip, stamp-filed imperial
+  blade) and the **band's boss, Calder (ex-imperial officer), alive.** The Empire's local *Divide* push at
+  the crossing has been **interrupted and exposed** — though only *to Paige* so far, and the town does not
+  yet know.
+- **Loose ends the Empire may exploit / that may surface:**
+  - **Two raiders escaped** into the woods. They can report the operation's collapse up the chain — and they
+    **witnessed Paige's outlawed earth-magic.** Either could become a description, a manhunt, or a witness.
+  - **The wage-purse is marked, traceable imperial coin** now in Paige's hands — a tie back to the operation
+    if spent or found.
+  - The op was meant to be **deniable**; its failure (a vanished band, a missing boss, a strongbox in the
+    wrong hands) is itself a problem the Empire's handler must now react to.
+
+### The handler thread — "THE ADVISOR" + the closed-eye sigil
+- Calder reported **only to "the advisor"**; the strongbox orders insisted **"the survey office is not to
+  be troubled with this,"** and were sealed with an **unfamiliar wax sigil — a closed eye over a vertical
+  line.** This is the **same "advisor"** Verrane sends his sealed reports to and flinches to name (see
+  `hidden-npcs.md`) — **the link between the two operations runs through this one handler, and the player
+  does not yet know they connect.** The Drowned-Stair survey and the false-flag raids are two limbs of one
+  body. The closed-eye sigil is the advisor's mark; let it recur (on a seal, a courier's token, a letter)
+  as a breadcrumb.
+- **Note the deliberate compartmentalization:** the advisor keeps the *survey office* walled off from the
+  *raid* operation. That wall is a clue — the inner circle treats the thresholds (Stage 1) as the real
+  prize and the divide-play (Stage 2) as mere groundwork, and does not want the two associated on paper.
